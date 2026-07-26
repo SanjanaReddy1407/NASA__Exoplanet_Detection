@@ -121,8 +121,16 @@ The web interface built with **Flask, Bootstrap, and Chart.js** provides an auto
 
 ## 🛠️ Technical Stack & Dependencies
 
-### Programming Language & Core Frameworks
-* **Python 3.8+**
+| Domain | Technologies |
+| :--- | :--- |
+| **Primary Language** | Python 3.8+ |
+| **Machine Learning** | XGBoost, Scikit-learn, Random Forest |
+| **Deep Learning** | TensorFlow / Keras (CNN Engine) |
+| **Data Resampling** | imbalanced-learn (SMOTE) |
+| **Data Processing** | Pandas, NumPy |
+| **Web & Dashboard** | Flask, HTML5, Bootstrap 5, Chart.js / Plotly |
+| **Data Source** | NASA Kepler & TESS Mission Repositories |
+
 
 ### Data Science & Machine Learning Libraries
 * **Scikit-learn:** Implementation of evaluation metrics (Precision, Recall, F1-Score, Confusion Matrix) and Random Forest logic.
