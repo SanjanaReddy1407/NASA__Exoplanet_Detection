@@ -144,3 +144,19 @@ Candidates passing Phase 1 are converted into phase-folded light curve matrices.
 ├── requirements.txt              # Environment dependencies
 └── README.md                     # Project documentation
 ```
+
+---
+## 📈 Projected Results & Performance Benchmarks
+- Target Classification Metrics: F1-Score, Precision, and Recall $> 0.90$ across validated test samples.
+
+- Automation Capacity: Designed to autonomously process and rank over 9,000+ candidate signals in minutes.
+  
+- False Positive Reduction: Dual confirmation (Phase 1 + Phase 2) substantially suppresses background noise and stellar variability errors.
+---
+## 📚 References & Citation
+- NASA Exoplanet Archive: https://exoplanetarchive.ipac.caltech.edu/
+- NASA Kepler Mission Page: https://science.nasa.gov/mission/kepler/
+- Shallue, C. J., & Vanderburg, A. (2018). Identifying Exoplanets with Deep Learning: A Five-planet Resonant Chain around K2-138. The Astronomical Journal.
+- Valizadegan, H., et al. (2022). ExoMiner: A Highly Accurate and Explainable Deep Learning Classifier for Transiting Exoplanets. The Astrophysical Journal.
+- Chawla, N. V., et al. (2002). SMOTE: Synthetic Minority Over-sampling Technique. Journal of Artificial Intelligence Research.
+---
