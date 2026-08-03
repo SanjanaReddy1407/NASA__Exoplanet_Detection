@@ -3,7 +3,7 @@
 > **Official Entry for NASA Space Apps Challenge**  
 > **Challenge Title:** *A World Away — Hunting for Exoplanets with AI*  
 > **Team Name:** SpaceX  
-
+---
 An end-to-end, high-efficiency machine learning framework engineered to automate the detection, vetting, and characterization of candidate exoplanets from NASA's Kepler and TESS satellite missions. By combining tabular machine learning screening with deep learning-based transit image analysis, this system eliminates manual inspection bottlenecks and tackles the **"Cosmic Haystack"** false-positive problem.
 
 ---
