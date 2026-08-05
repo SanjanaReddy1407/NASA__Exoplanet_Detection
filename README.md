@@ -1,5 +1,5 @@
 # 🪐 SpaceX: Two-Phase AI Pipeline for Exoplanet Discovery
-good
+
 
 > **Official Entry for NASA Space Apps Challenge**  
 > **Challenge Title:** *A World Away — Hunting for Exoplanets with AI*  
