@@ -2,7 +2,17 @@
 
 > **Official Entry for NASA Space Apps Challenge**  
 > **Challenge Title:** *A World Away — Hunting for Exoplanets with AI*  
-> **Team Name:** SpaceX  
+> **Team Name:** SpaceX
+---
+
+# 🪐 Cosmic Haystack AI
+
+**Machine Learning Classifier for Real-Time Exoplanet Detection**
+
+![Python](https://img.shields.io/badge/PYTHON-CORE_LOGIC-0078D4?style=for-the-badge&logo=python&logoColor=white) ![Machine Learning](https://img.shields.io/badge/MACHINE_LEARNING-96%25_ACCURACY-FF6F00?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Data Science](https://img.shields.io/badge/DATA_SCIENCE-DASHBOARD-150458?style=for-the-badge&logo=pandas&logoColor=white) ![NASA](https://img.shields.io/badge/NASA_SPACE_APPS-TOP_5_FINALIST-0B3D91?style=for-the-badge&logo=nasa&logoColor=white)
+
+> Designed to solve the "Cosmic Haystack" problem, this project features an advanced machine learning classifier engineered for exoplanet detection. By processing and analyzing real-time astronomical data, the AIML model achieves a remarkable 96% accuracy rate, supported by a dynamic data visualization dashboard. This project proudly secured a Top 5 position in the live finals of the international NASA Space Apps Challenge (Jabalpur Edition).
+
 ---
 An end-to-end, high-efficiency machine learning framework engineered to automate the detection, vetting, and characterization of candidate exoplanets from NASA's Kepler and TESS satellite missions. By combining tabular machine learning screening with deep learning-based transit image analysis, this system eliminates manual inspection bottlenecks and tackles the **"Cosmic Haystack"** false-positive problem.
 
